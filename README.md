@@ -1,6 +1,6 @@
 # 📊 Sales & Performance Analysis Dashboard in Power BI  
 
-## 🔎 Project Overview  
+### 🔎 Project Overview  
 This project presents two interactive **Power BI dashboards** designed to analyze sales performance, compare actual revenue vs budget, and track key business KPIs.  
 The dashboards help stakeholders identify trends, evaluate target achievements, and uncover insights across regions, products, and sales channels.  
 ---
@@ -17,7 +17,7 @@ The dashboards help stakeholders identify trends, evaluate target achievements, 
 
 This dashboard provides a high-level snapshot of company performance at a glance.  
 
----
+
 ## 🎯 Insights
 - **Revenue Trend:** steady growth until late 2019.  
 - **Category Contribution:** Bikes are the largest contributor (~17%).  
@@ -45,7 +45,7 @@ This dashboard provides a high-level snapshot of company performance at a glance
 
 This dashboard focuses on **deep analysis**, helping to drill down into product-level, regional, and channel-level performance.  
 
----
+
 ## 🎯 Insights
 - **YoY Growth:** –1.03% → revenue in 2019 declined compared to 2018.  
 - **Monthly Variance:** Q2 2019 showed strong positive variance, while Q4 declined.  
