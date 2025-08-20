@@ -1,7 +1,7 @@
 # 📊 Sales & Performance Analysis Dashboard in Power BI  
 
 ## 🔎 Project Overview  
-###This project presents two interactive **Power BI dashboards** designed to analyze sales performance, compare actual revenue vs budget, and track key business KPIs.  
+This project presents two interactive **Power BI dashboards** designed to analyze sales performance, compare actual revenue vs budget, and track key business KPIs.  
 The dashboards help stakeholders identify trends, evaluate target achievements, and uncover insights across regions, products, and sales channels.  
 ---
 
