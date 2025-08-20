@@ -7,7 +7,7 @@ The dashboards help stakeholders identify trends, evaluate target achievements, 
 
 ## 📌 Dashboard 1: Overview Dashboard  
 
-![Overview Dashboard Screenshot](images/overview_dashboard.png)  
+![Overview Dashboard Screenshot](https://github.com/Alaa-Eissa/Sales-Performance-Dashboard/blob/main/Overview.png)  
 
 **Key Features:**  
 - **KPIs:** Total Revenue, Total Budget, Variance.  
