@@ -21,7 +21,7 @@ This dashboard provides a high-level snapshot of company performance at a glance
 
 ## 📌 Dashboard 2: Performance Dashboard  
 
-![Performance Dashboard Screenshot](images/performance_dashboard.png)  
+![Performance Dashboard Screenshot](https://github.com/Alaa-Eissa/Sales-Performance-Dashboard/blob/main/Performance.jpg)  
 
 **Key Features:**  
 - **KPIs:**  
